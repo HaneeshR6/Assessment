@@ -49,7 +49,7 @@ public class Trying {
 
 			                 case 1:
 
-				           System.out.println("Enter the file name for crating new file");
+				           System.out.println("Enter the file name for creating new file");
 				           filename = input.next();
 
 				           try {
